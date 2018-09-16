@@ -8,7 +8,8 @@ SoFlo Tech Homepage
 | Name | Type | Default | Description |
 | --- | --- | --- | --- |
 | HOST | `String` |  | Host domain for remote development environments |
-| PORT | `Number` | 3000 | Port for remote development environments |
+| STATIC\_PORT | `Number` | 3000 | Port for serving static files via remote development environments |
+| TEMPLATE\_PORT | `Number` | 3001 | Port for static template files via remote development environments |
 
 ## Contributors
 

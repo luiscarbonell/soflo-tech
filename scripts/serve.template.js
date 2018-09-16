@@ -7,7 +7,7 @@ let dotenv = require('dotenv').config({
 let liveServer = require('live-server')
 
 liveServer.start({
-  port: process.env.STATIC_PORT || 3000,
+  port: process.env.TEMPLATE_PORT || 3001,
   host: process.env.HOST,
-  root: path.resolve(__dirname, '../static')
+  root: path.resolve(__dirname, '../template')
 })
