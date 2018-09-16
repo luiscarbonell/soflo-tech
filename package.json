@@ -9,7 +9,8 @@
     "test:e2e": "cd client.web && npm run test:e2e",
     "serve": "cd client.web && npm run serve",
     "build": "cd client.web && npm run build",
-    "lint": "cd client.web && npm run lint"
+    "lint": "cd client.web && npm run lint",
+    "postinstall": "cd client.web && npm i"
   },
   "repository": {
     "type": "git",
