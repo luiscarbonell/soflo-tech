@@ -27,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/luiscarbonell/soflo-tech/issues"
   },
-  "homepage": "https://github.com/luiscarbonell/soflo-tech#readme"
+  "homepage": "https://github.com/luiscarbonell/soflo-tech#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
