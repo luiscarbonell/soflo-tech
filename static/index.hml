@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.1/css/bulma.css" rel="stylesheet">
+  </head>
+  <body style="font-family:Helvetica;">
+    <main class="container is-widescreen">
+      <section class="section box is-marginless has-background-white-bis">
+        <div class="columns">
+          <div class="column">
+            <div class="has-text-centered" style="height:100%; display: flex;  flex-direction: column;justify-content: space-evenly;">
+              <p><a class="is-size-5 has-text-dark has-text-weight-light" href="#">About Us</a></p>
+              <p><a class="is-size-5 has-text-dark has-text-weight-light" href="#">Miami</a></p>
+            </div>
+          </div>
+          <div class="column">
+            <figure class="image is-128x128" style="margin:auto;">
+              <img src="https://media1.popsugar-assets.com/files/thumbor/gySoDy3a38euPU-FbMzDMt7UrdI/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2016/08/10/845/n/37139775/b13b772a77fe4b6f_heart-mug/i/Yo-Heart-Caf%C3%A9-Bustelo-Mug-10.jpg" width="10vw">
+            </figure>
+          </div>
+          <div class="column">
+            <div class="has-text-centered" style="height:100%; display: flex;  flex-direction: column; justify-content: space-evenly;">
+              <p><a class="is-size-5 has-text-dark has-text-weight-light" href="#">Announcements</a></p>
+              <p><a class="is-size-5 has-text-dark has-text-weight-light" href="#">People</a></p>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="section has-background-white-lighter">
+        <div class="box">
+          <div class="columns">
+            <div class="column">
+              
+            </div>
+            <div class="column is-9">
+              <div class="card">
+                <div class="card-image">
+                  <figure class="image is-4by3">
+                    <img src="https://bulma.io/images/placeholders/1280x960.png" alt="Placeholder image">
+                  </figure>
+                </div>
+                <div class="card-content">
+                  <div class="media">
+                    <div class="media-left">
+                      <figure class="image is-48x48">
+                        <img src="https://bulma.io/images/placeholders/96x96.png" alt="Placeholder image">
+                      </figure>
+                    </div>
+                    <div class="media-content">
+                      <p class="title is-4">John Smith</p>
+                      <p class="subtitle is-6">@johnsmith</p>
+                    </div>
+                  </div>
+
+                  <div class="content">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                    Phasellus nec iaculis mauris. <a>@bulmaio</a>.
+                    <a href="#">#css</a> <a href="#">#responsive</a>
+                    <br>
+                    <time datetime="2016-1-1">11:09 PM - 1 Jan 2016</time>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="column">
+              
+            </div>
+          </div>
+        </div>
+        <div class="box">
+          <div class="columns">
+            <div class="column">
+              
+            </div>
+            <div class="column is-9">
+              <div class="card">
+                <div class="card-image">
+                  <figure class="image is-4by3">
+                    <img src="https://bulma.io/images/placeholders/1280x960.png" alt="Placeholder image">
+                  </figure>
+                </div>
+                <div class="card-content">
+                  <div class="media">
+                    <div class="media-left">
+                      <figure class="image is-48x48">
+                        <img src="https://bulma.io/images/placeholders/96x96.png" alt="Placeholder image">
+                      </figure>
+                    </div>
+                    <div class="media-content">
+                      <p class="title is-4">John Smith</p>
+                      <p class="subtitle is-6">@johnsmith</p>
+                    </div>
+                  </div>
+
+                  <div class="content">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                    Phasellus nec iaculis mauris. <a>@bulmaio</a>.
+                    <a href="#">#css</a> <a href="#">#responsive</a>
+                    <br>
+                    <time datetime="2016-1-1">11:09 PM - 1 Jan 2016</time>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="column">
+              
+            </div>
+          </div>
+        </div>
+        <div class="box">
+          <div class="columns">
+            <div class="column">
+              
+            </div>
+            <div class="column is-9">
+              <div class="card">
+                <div class="card-image">
+                  <figure class="image is-4by3">
+                    <img src="https://bulma.io/images/placeholders/1280x960.png" alt="Placeholder image">
+                  </figure>
+                </div>
+                <div class="card-content">
+                  <div class="media">
+                    <div class="media-left">
+                      <figure class="image is-48x48">
+                        <img src="https://bulma.io/images/placeholders/96x96.png" alt="Placeholder image">
+                      </figure>
+                    </div>
+                    <div class="media-content">
+                      <p class="title is-4">John Smith</p>
+                      <p class="subtitle is-6">@johnsmith</p>
+                    </div>
+                  </div>
+
+                  <div class="content">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                    Phasellus nec iaculis mauris. <a>@bulmaio</a>.
+                    <a href="#">#css</a> <a href="#">#responsive</a>
+                    <br>
+                    <time datetime="2016-1-1">11:09 PM - 1 Jan 2016</time>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="column">
+              
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+    <footer class="footer">
+      <div class="container">
+        <div class="columns">
+        <div class="column has-text-centered">
+          <ul>
+            <li>Things</li>
+            <li>People</li>
+            <li>Stuff</li>
+          </ul>
+        </div>
+        <div class="column has-text-centered">
+          <ul>
+            <li>Things</li>
+            <li>People</li>
+            <li>Stuff</li>
+          </ul>
+        </div>
+        <div class="column has-text-centered">
+          <ul>
+            <li>Things</li>
+            <li>People</li>
+            <li>Stuff</li>
+          </ul>
+        </div>
+      </div>
+      <p class="has-text-centered">
+      <strong>SoFlo Tech</strong> by <a href="#">Miami Powered</a>. The source code is licensed
+      <a href="http://opensource.org/licenses/mit-license.php">MIT</a>. The website content
+      is licensed <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY NC SA 4.0</a>.
+    </p>
+      </div>
+    </footer>
+  </body>
+</html>
