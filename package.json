@@ -8,6 +8,7 @@
     "test:unit": "cd client.web && npm run test:unit",
     "test:e2e": "cd client.web && npm run test:e2e",
     "serve": "cd client.web && npm run serve",
+    "serve:static": "node scripts/serve.static.js",
     "build": "cd client.web && npm run build",
     "lint": "cd client.web && npm run lint",
     "postinstall": "cd client.web && npm i"
@@ -27,5 +28,9 @@
   "bugs": {
     "url": "https://github.com/luiscarbonell/soflo-tech/issues"
   },
-  "homepage": "https://github.com/luiscarbonell/soflo-tech#readme"
+  "homepage": "https://github.com/luiscarbonell/soflo-tech#readme",
+  "devDependencies": {
+    "dotenv": "^6.0.0",
+    "live-server": "^1.2.0"
+  }
 }
