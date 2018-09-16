@@ -1,0 +1,30 @@
+{
+  "name": "soflo-tech",
+  "version": "1.0.0",
+  "description": "SoFlo Tech Stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test:unit": "cd client.web && npm run test:unit",
+    "test:e2e": "cd client.web && npm run test:e2e",
+    "serve": "cd client.web && npm run serve",
+    "build": "cd client.web && npm run build",
+    "lint": "cd client.web && npm run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luiscarbonell/soflo-tech.git"
+  },
+  "keywords": [
+    "South",
+    "Florida",
+    "Technology",
+    "Tech"
+  ],
+  "author": "Luis Carbonell <luiscarbonell5683@gmail.com>",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/luiscarbonell/soflo-tech/issues"
+  },
+  "homepage": "https://github.com/luiscarbonell/soflo-tech#readme"
+}
